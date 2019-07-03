@@ -1,10 +1,5 @@
 bamazon
-Homework Assignment for Coding Bootcamp - Build a command line app the mimics an online store using nodejs and mysql
-
-DEMO
-To see a demo of this CLI node app in action check out the video:
-
-bamazon Demo Video
+Homework Assignment : - Build a command line app the mimics an online store using nodejs and mysql
 
 Overview
 In this activity, you'll be creating an Amazon-like storefront with the MySQL skills you learned this week. The app will take in orders from customers and deplete stock from the store's inventory.
@@ -45,3 +40,5 @@ Once the update goes through, show the customer the total cost of their purchase
 
 
 ![image](./img/screenshot.png)
+![image](./img/screenshot1.png)
+![image](./img/screenshot2.png)
